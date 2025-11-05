@@ -1,0 +1,11 @@
+﻿Charlie is not a numeric number
+8 + 2 = 10.0
+6 + 4 = 10.0
+6 * 7 = 42.0
+8 % 2 = 0.0
+2 ^ 4 = 16.0
+6 - 7 = -1.0
+Dylan is not a numeric number
+Dylan is not a valid operator
+6 + -1 = 5.0
+Cant divide by zero
